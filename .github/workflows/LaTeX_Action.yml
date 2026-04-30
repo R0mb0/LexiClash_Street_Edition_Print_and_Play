@@ -1,0 +1,25 @@
+name: Test Compilazione # Action name
+on:
+  push:
+    branches:
+      - 'main'
+jobs:
+  build_latex:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download file della Repo
+        uses: actions/checkout@v6
+      - name: Compilazione del file della Relazione
+        uses: xu-cheng/latex-action@v4
+        with: # insert here files to compile
+          working_directory: Documents
+          root_file: |
+            Big_game.tex
+            Normal_game.tex
+      - name: Caricamento della Release temporanea
+        uses: actions/upload-artifact@v7
+        with: 
+          name: Tour Bambini Musei Civici
+          path: |
+            Documents/Big_game.pdf
+            Documents/Normal_game.pdf
