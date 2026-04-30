@@ -10,6 +10,15 @@
 
 A fast-paced, street-themed word-building game! Play the dynamic Vanilla JS web app with a smart real-time correction dock, or print the LaTeX offline Print &amp; Play edition for tabletop fun. Clash for the highest score in local multiplayer!
 
+<div align="center">
+  <a href="http://paypal.me/R0mb0">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Light.svg">
+      <img alt="Saved you time? Support the dev" src="https://github.com/R0mb0/Support_the_dev_badge/blob/main/Badge/SVG/Support_the_dev_badge_Default.svg">
+    </picture>
+  </a>
+</div>
 
 <details>
 <summary>
@@ -220,3 +229,11 @@ A fast-paced, street-themed word-building game! Play the dynamic Vanilla JS web 
 ![0166.png](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play/blob/main/Readme_imgs/Big_document/0166.png)
 
 </details>
+
+  <a href="https://github.com/R0mb0/Not_made_by_AI">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAILight.svg">
+    <img alt="Not made by AI" src="https://github.com/R0mb0/Not_made_by_AI/blob/main/Badge/SVG/NotMadeByAIDefault.svg">
+  </picture>
+</a>
