@@ -1,4 +1,6 @@
-# LexiClash_Street_Edition_Print_and_Play
+<div align="center">
+
+# LexiClash Street Edition - Print and Play
 
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1b445a083ccf417ca9d7ae3fd659d687)](https://app.codacy.com/gh/R0mb0/LexiClash_Street_Edition_Print_and_Play/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
@@ -9,6 +11,8 @@
 ![License](https://img.shields.io/badge/license-CC0%201.0-blue.svg?style=plastic)
 
 A fast-paced, street-themed word-building game! Play the dynamic Vanilla JS web app with a smart real-time correction dock, or print the LaTeX offline Print &amp; Play edition for tabletop fun. Clash for the highest score in local multiplayer!
+
+
 
 <div align="center">
   <a href="http://paypal.me/R0mb0">
@@ -229,6 +233,8 @@ A fast-paced, street-themed word-building game! Play the dynamic Vanilla JS web 
 ![0166.png](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play/blob/main/Readme_imgs/Big_document/0166.png)
 
 </details>
+
+</div>
 
 <div align="center">
 
