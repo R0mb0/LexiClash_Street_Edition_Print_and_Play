@@ -2,7 +2,9 @@
 
 # LexiClash Street Edition - Print and Play
 
+[![pages-build-deployment](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play/actions/workflows/pages/pages-build-deployment)
 [![made-with-latex](https://img.shields.io/badge/Made%20with-LaTeX-1f425f.svg)](https://www.latex-project.org/)
+[![Test Compilazione](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play/actions/workflows/LaTeX_Action.yml/badge.svg)](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play/actions/workflows/LaTeX_Action.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/1b445a083ccf417ca9d7ae3fd659d687)](https://app.codacy.com/gh/R0mb0/LexiClash_Street_Edition_Print_and_Play/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/R0mb0/LexiClash_Street_Edition_Print_and_Play)
